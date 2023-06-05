@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1, 
+      "titulo": "O que é e pra que serve a linguagem Go? #HipstersPontoDicas",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/KfCNyIrqjsg",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Aprenda tudo sobre Data Science, seus primeiros passos",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/IQdISZCosAE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/5b9Z8toVaAU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+      "descricao": "15 mil visualizações",
+      "url": "https://www.youtube.com/embed/fpth65ts3cw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "useState: aprenda o React Hook neste TUTORIAL | #AluraMais",
+      "descricao": "2,1 mil visualizações",
+      "url": "https://www.youtube.com/embed/KdQa4Rd6K1A",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Vida e dicas para trabalhar FORA do Brasil com Charles Assunção | #HipstersPontoTube",
+      "descricao": "155 mil visualizações",
+      "url": "https://www.youtube.com/embed/3279r_9_uFc",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "Curso de Ciência da Computação | #HipstersPontoTube",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/Kkg1cjVoYq4",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    }
+  ]
+}
